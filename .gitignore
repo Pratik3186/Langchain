@@ -1,0 +1,16 @@
+venv/
+__pycache__/
+*.pyc
+.env
+
+# HuggingFace / models
+.cache/
+models/
+*.bin
+*.pt
+*.safetensors
+
+# Data
+*.csv
+*.json
+*.parquet
