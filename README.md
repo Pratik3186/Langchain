@@ -15,7 +15,7 @@ This project is designed to:
 
 ---
 
-## 📂 Project Structure
+## 📂 Project Structure of LC
 
 ```
 Langchain/
